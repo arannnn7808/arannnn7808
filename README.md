@@ -7,3 +7,4 @@
 - 🥊
 - 🦮
 - 🕹️
+- Spanish Community: https://discord.gg/v2Nwn2GbUD
