@@ -2,6 +2,7 @@
 
 - HTML and Astro 💻
 - JavaScript 💻
+- LUA 💻
 
 - 🥊
 - 🦮
