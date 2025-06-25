@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- HTML and Astro 💻
-- JavaScript 💻
-- LUA 💻
+- Frontend and Backend developer 💻
+- Fivem Developer (.lua) 💻
 
 - 🥊
 - 🦮
