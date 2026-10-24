@@ -4,6 +4,4 @@
 - Fivem Developer (.lua) 💻
 - SCPSL Dev (c#) 💻
 
-- 🥊
-- 🦮
-- 🕹️
+- https://push2.live/
